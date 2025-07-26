@@ -1,0 +1,15 @@
+[
+    {
+      "match": "Hello",
+      "answer": "Hello, how are you?"
+    },
+    {
+      "match": "All good",
+      "answer": "I'm good, thanks for asking"
+    },
+    {
+      "match": "What is your name?",
+      "answer": "My name is AthenaX"
+    }
+]
+  
